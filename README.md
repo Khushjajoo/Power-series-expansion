@@ -1,2 +1,3 @@
-Power series expansion of Acos(wt) using MATLAB and understanding the Taylor Series
+# Taylor Series Approximation of Cosine Function in MATLAB
 
+This MATLAB program analyzes and visualizes the truncated Taylor series expansion of the function f(t) = 12 cos(40t) using a specified number of non-zero terms. The script calculates and plots the power series approximation over a user-defined time interval, compares it against the actual function, and computes the average deviation between the two. It highlights how increasing the number of terms improves the accuracy of the approximation. The code is useful for understanding the convergence behavior of Taylor series and includes built-in checks, coefficient tables, and a visual comparison of successive approximations to the target function.
